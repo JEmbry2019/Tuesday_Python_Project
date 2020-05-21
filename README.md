@@ -1,3 +1,11 @@
+Tueday Python Project
+James Embry
+
+1. Read a CSV file
+2. Do something with the  data.
+
+
+
 # Sample ReadMe
 
 Blackjack
